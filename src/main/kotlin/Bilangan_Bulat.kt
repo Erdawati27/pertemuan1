@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
     val minByte: Byte = -128
-    val maxByte: Byte = 127 // 8bit
+    val maxByte: Int = 128 // 8bit
     val minShort: Short = -32768
     val maxShort: Short = 32767 // 16bit
     val minInt: Int = -2147483648
